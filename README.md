@@ -4,7 +4,7 @@
 This repository contains code and data for analyzing a marketing campaign dataset. The analysis explores customer behavior, spending patterns, and response to marketing campaigns. The project employs a variety of statistical and machine learning techniques to derive insights.
 
 ## Project Structure
-- `Muhammad_Hamza_Naviwala_261292.ipynb`: Jupyter notebook containing the main analysis code.
+- `Marketing-Campaign-Case-Study.ipynb`: Jupyter notebook containing the main analysis code.
 - `marketing_campaign.csv`: Dataset used for the analysis.
 - `README.md`: This file providing an overview of the project.
 
@@ -20,7 +20,7 @@ This repository contains code and data for analyzing a marketing campaign datase
 1. Ensure you have Python and Jupyter Notebook installed.
 2. Clone this repository: `git clone https://github.com/your-username/marketing-campaign-analysis.git`
 3. Navigate to the project directory: `cd marketing-campaign-analysis`
-4. Open the Jupyter notebook: `jupyter notebook Muhammad_Hamza_Naviwala_261292.ipynb`
+4. Open the Jupyter notebook: `jupyter notebook Marketing-Campaign-Case-Study.ipynb`
 
 Feel free to explore, modify, and enhance the analysis based on your requirements. Contributions are welcome!
 
